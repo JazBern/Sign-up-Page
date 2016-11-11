@@ -1,0 +1,24 @@
+  p
+  {
+    display: none;
+  }
+  body
+  {
+    background-image: url("leaf.jpg");
+    background-size:cover;
+  }
+  form
+  {
+    float:right;
+    padding-right: 13%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size:20px;
+    font-weight: 800; 
+    background-color: #40b04080;  
+    width: 18%;
+    margin-top: 6%;
+    margin-right: 9%;
+    font-family: sans-serif;
+    padding-left: 3%;
+  }
